@@ -66,7 +66,7 @@ If you use any part of this work in your own research, please consider citing:
 
 ```css
 @article{moradi2024RLinPhysics,
-  author = {Mohammadamin Moradi, Lili Ye, ying-Cheng Lai},
+  author = {Mohammadamin Moradi, Lili Ye, Ying-Cheng Lai},
   title = {Reinforcement Learning in Physics: A Comprehensive Review},
   journal = {TBA},
   year = {2024},
